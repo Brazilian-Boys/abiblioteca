@@ -1,0 +1,53 @@
+nav{background-color: black;
+    text-align: left;
+    color: darkgoldenrod;
+    font-size:  50px;
+    background-image: url(background04.jpg);
+    
+     }
+#navegação{  text-decoration: none;
+            font-size: 30px;
+            text-align: right;
+               
+}
+#navegação p:hover{color: aliceblue;
+
+}
+   
+
+.acervo{
+        text-align: center;
+   }
+
+
+
+
+
+
+body {background-color: darkkhaki;
+    background-image: url('background02.jpg');
+    }
+
+
+#footer {background-color: black;
+         text-align: center;
+         color: white;
+}
+
+.historia-livros{ color: white;
+    text-align: justify;
+    font-size: 25px;
+    
+    }
+
+
+button{
+    background-color: darkgoldenrod;
+    float: right;
+    
+}
+
+
+
+
+
